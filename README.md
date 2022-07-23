@@ -9,5 +9,5 @@ Decoder Tool that I created while I was interning at Continental Automobile
 
 ### 2. [Decoder script](/decoder.py)
 ### 3. [Decoder Tool](/Decoder.exe)
-### 4. [User Manual]()
-### 5. [Test Cases]()
+### 4. [User Manual](/User_manual.pdf)
+### 5. [Test Cases](/Test_cases.xlsx)
