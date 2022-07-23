@@ -9,7 +9,7 @@ Decoder Tool that I created while I was interning at Continental Automobile
 Requirements file explains the intended function and limitations of the tool
 
 ### 2. [Decoder script](/decoder.py)
-Decoder script was written in python
+Decoder script was written in python  
 Script made use of tkinter, openpyxl and regex
 
 ### 3. [User Manual.pdf](/User_manual.pdf)
