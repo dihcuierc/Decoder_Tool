@@ -11,7 +11,7 @@ Requirements file explains the intended function and limitations of the tool
 ### 2. [Decoder script](/decoder.py)
 Decoder script was written in python
 
-### 3. [User Manual.pptx](/User_manual.pdf)
+### 3. [User Manual.pdf](/User_manual.pdf)
 User manual provides step-by-step process of how to use the tool
 
 ### 4. [Test Cases.xlsx](https://github.com/dihcuierc/Decoder_Tool/blob/main/Test%20cases.xlsx)
